@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Phát
 
-<!--
-**htp2003/htp2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who focuses on building clean, usable applications for both **web** and **mobile**.  
+Main stack: **React, React Native, Node.js, MongoDB**.  
+I enjoy learning, experimenting, and turning ideas into working products.
 
-Here are some ideas to get you started:
+### What I do
+- Frontend development with React and React Native  
+- Backend integration with Node.js and MongoDB  
+- Exploring AI-driven and creative projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Automatic Math Video Generator** – AI + Manim tool for teachers  
+- **[Your App/Website Name]** – React Native mobile app  
+- **[Another Project]** – Web application with React + Node.js  
+
+### Get in touch
+- [LinkedIn](#)  
+- [Email](#)  
+
+---
+*Always building. Always learning.*
