@@ -30,7 +30,7 @@ I can take a project from idea to deployment, end to end.
   AI-powered tool for teachers to automatically generate math videos with **Manim**.  
 
 - [**VietGene Laboratory**](https://github.com/htp2003/vietgene-laboratory)  
-  DNA testing web platform (team of 3).  
+  DNA testing web platform (team of 4).  
   👉 My contribution: built the **customer flow** (registration, booking, result viewing).  
 
 - [**POS System**]  
@@ -64,8 +64,7 @@ I can take a project from idea to deployment, end to end.
 
 ### 📬 Get in touch
 - **Email:** hatanphat1121@gmail.com  
-- **LinkedIn:** [linkedin.com/in/htp2003](https://linkedin.com/in/htp2003) *(optional, nếu bạn có thì thêm vào)*  
-- **CV:** [View My Resume](#) *(upload file PDF rồi chèn link ở đây)*  
+- **CV:** [View My Resume](https://drive.google.com/file/d/18bHKIbvbxyrRgthOkIgMMHx68s5PtaFh/view?usp=drive_link) *(upload file PDF rồi chèn link ở đây)*  
 
 ---
 
