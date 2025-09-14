@@ -64,7 +64,7 @@ I can take a project from idea to deployment, end to end.
 
 ### 📬 Get in touch
 - **Email:** hatanphat1121@gmail.com  
-- **CV:** [View My Resume](https://drive.google.com/file/d/18bHKIbvbxyrRgthOkIgMMHx68s5PtaFh/view?usp=drive_link) *(upload file PDF rồi chèn link ở đây)*  
+- **CV:** [View My Resume](https://drive.google.com/file/d/18bHKIbvbxyrRgthOkIgMMHx68s5PtaFh/view?usp=drive_link)
 
 ---
 
