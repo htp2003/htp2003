@@ -36,6 +36,12 @@ I can take a project from idea to deployment, end to end.
      
 - [**Chatify**](https://github.com/htp2003/chatify)  
   Realtime Chatting Website using **Socket.io**.  
+
+---
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htp2003&layout=compact&theme=radical)
+
 ---
 
 ### 📬 Get in touch
