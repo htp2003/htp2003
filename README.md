@@ -1,7 +1,7 @@
 # Hi, I'm Phát 👋
 
-I'm a **frontend-oriented fullstack developer** who enjoys building practical and creative applications for both web and mobile.  
-Main stack: **React, React Native, Node.js, MongoDB**.  
+I'm a **frontend developer** who enjoys building practical and creative applications for web.  
+Main stack: **React, Node.js, MongoDB**.  
 I can take a project from idea to deployment, end to end.
 
 ---
